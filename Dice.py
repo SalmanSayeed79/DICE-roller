@@ -1,7 +1,7 @@
 import random
 from tkinter import *
 from PIL import Image, ImageTk
-
+#made a change just to watch what happens
 
 def number():
     a=random.randint(1,6)
